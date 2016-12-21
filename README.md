@@ -29,6 +29,7 @@ Let's create some tasks for my self
 - [x] Hello 1
 - [x] Hello 2
 
+sadkasbkasbdkasbdkasdbkasjdbsakj
 Let's launch [Github](www.github.com)
 
 
@@ -47,3 +48,9 @@ Let's launch [Github](www.github.com)
 
 Let's try sub section links
 [Header 2](This is header 2)
+
+
+###Let's understand the concept of merge
+
+I will change something now in the main doc
+
