@@ -52,5 +52,38 @@ Let's try sub section links
 
 ###Let's understand the concept of merge
 
-I will change something now in the main doc
+I need to change this document
 
+Now that I have understood the concept of merge, let's repeat it
+
+# Diet Healers Record 1
+
+## Patient's Name: Eshita    Age:28        Diagnosis: Overweight
+
+## Lists of foods to avoid
+1. Fried or Oily foods
+    - samosas
+    - pakodas
+    - puris
+    - achhaa
+2. Simple Sugars
+    - Carbonated beverages
+    - Cakes & Pastries
+    - candies & cookies
+
+## Lists of foods to include
+1. Complex carbs
+
+2. Fruits & Vegetbales
+
+3. Omega 3 Fatty foods
+
+4. Adequate Water
+
+5. Nuts and seeds
+
+### For more info info you can reach on to this website below
+[Weightlossways] (www.prevention.com)
+
+
+   
