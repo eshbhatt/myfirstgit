@@ -82,7 +82,7 @@ Now that I have understood the concept of merge, let's repeat it
 
 5. Nuts and seeds
 
-### For more info info you can reach on to this website below
+### For more info you can reach on to this website below
 [Weightlossways] (www.prevention.com)
 
 
